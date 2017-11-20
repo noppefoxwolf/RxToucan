@@ -1,0 +1,22 @@
+PODS:
+  - RxSwift (4.0.0)
+  - RxToucan (0.1.0):
+    - RxSwift
+    - Toucan
+  - Toucan (0.6.0)
+
+DEPENDENCIES:
+  - RxToucan (from `../`)
+
+EXTERNAL SOURCES:
+  RxToucan:
+    :path: ../
+
+SPEC CHECKSUMS:
+  RxSwift: fd680d75283beb5e2559486f3c0ff852f0d35334
+  RxToucan: f58ca1d64f03fbf23d956b25700fbc9f591ad31b
+  Toucan: 47485bbc9cb4541ef6318d6886103e6eaf16e919
+
+PODFILE CHECKSUM: 3697e9dc54065e638ab4a71741ab24dba81efc3e
+
+COCOAPODS: 1.3.1
