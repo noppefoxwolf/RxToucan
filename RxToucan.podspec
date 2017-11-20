@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'RxToucan'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'Toucan wrapper with RxSwift.'
   s.description      = <<-DESC
 Toucan wrapper with RxSwift.
